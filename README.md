@@ -1,4 +1,4 @@
-## Instances of a Two-Dimensional Rectangular Bin Packing Problem in the Sheet Metal Industry
+## Instances of a 2D Bin Packing Problem in the Sheet Metal Industry
 
 Benchmark of realistic instances in the sheet metal industry, concerning 2DBPP with rectangular items and sheets. The archive collects 96 classes of instances, 20 instances per class, resulting in a total of 1920 instances. The classes differ from each other by the number of compulsory items (*n_compulsory*), optional items (*n_optional*), sheet types (*n_sheet_types*), items with assigned margin (*n_margins*), and items with assigned precedence (*n_precedences*). 
 
